@@ -10,13 +10,13 @@ You can find all our results in the submission report ```adversarial_attacks_rep
 
 
 
-*Adversarial attacks grid-search 
+* Adversarial attacks grid-search 
 
-*Black box attacks: analysis of convolution neural networks dimensions
+* Black box attacks: analysis of convolution neural networks dimensions
 
-*Bias/Variance trade-off: Impact on classifier robustness 
+* Bias/Variance trade-off: Impact on classifier robustness 
 
-*Defending against adversarial attacks 
+* Defending against adversarial attacks 
 
 
 ## References 
